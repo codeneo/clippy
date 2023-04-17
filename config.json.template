@@ -1,0 +1,11 @@
+{
+  "redis": {
+    "local_url": "redis://<user>:<password>@<host>:<port>/<db>",
+    "remote_url": "redis://<user>:<password>@<host>:<port>/<db>",
+    "channel": "<channel_name>"
+  },
+  "cipher": {
+    "enabled": true,
+    "key": "<cipher_key>"
+  }
+}
